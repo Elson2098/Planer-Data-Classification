@@ -1,0 +1,2 @@
+# Planer-Data-Classification
+Deep Learning Planar_data_classification_with_onehidden_layer_v6c
